@@ -17,7 +17,7 @@ const int gpio_frc1 = 2;
 const int freq_frc1 = 10;
 
 const int gpio_frc2 = 5;
-const int freq_frc2 = 10;
+const int freq_frc2 = 1;
 
 static volatile uint32_t frc1_count;
 static volatile uint32_t frc2_count;
